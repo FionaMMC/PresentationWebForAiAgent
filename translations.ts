@@ -136,23 +136,23 @@ export const translations = {
     },
     roadmap: {
       title: "Implementation Plan",
-      subtitle: "Agile delivery over 8 weeks.",
+      subtitle: "Agile delivery over 12 weeks.",
       phases: [
         {
           phase: "Phase 1",
-          duration: "2 Weeks",
+          duration: "4 Weeks",
           title: "Knowledge Agent (MVP)",
           items: ["Data Cleaning & RAG Pipeline", "Internal Q&A Tool", "Structure 80% of Business Queries"]
         },
         {
           phase: "Phase 2",
-          duration: "2 Weeks",
+          duration: "4 Weeks",
           title: "Billing Agent (Core)",
           items: ["Python Calculation Engine", "Excel/PDF Parsers & Generators", "3% Commission & VAT Logic"]
         },
         {
           phase: "Phase 3",
-          duration: "2 Weeks",
+          duration: "4 Weeks",
           title: "Sales & SOP Agent",
           items: ["Proposal Generator", "Dynamic SOP Checklists", "Full System Integration"]
         }
@@ -319,23 +319,23 @@ export const translations = {
     },
     roadmap: {
       title: "实施阶段规划",
-      subtitle: "敏捷开发模式，总工期预计 8 周。",
+      subtitle: "敏捷开发模式，总工期预计 12 周。",
       phases: [
         {
           phase: "阶段一",
-          duration: "2 周",
+          duration: "4 周",
           title: "基础设施与知识中台 (MVP)",
           items: ["数据清洗与 RAG Pipeline 搭建", "内部 Q&A 工具开发", "覆盖 80% 常见业务问题"]
         },
         {
           phase: "阶段二",
-          duration: "2 周",
+          duration: "4 周",
           title: "财务结算引擎 (核心交付)",
           items: ["Python 计费逻辑开发", "Excel 解析与 PDF 生成器", "3% 提成与 VAT 算法实现"]
         },
         {
           phase: "阶段三",
-          duration: "2 周",
+          duration: "4 周",
           title: "方案生成与流程集成",
           items: ["报价 Agent 开发", "动态 SOP 流程助手优化", "系统集成与验收交付"]
         }

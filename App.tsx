@@ -99,7 +99,7 @@ function App() {
               </p>
               <div className="grid grid-cols-2 gap-4">
                  <div className="p-4 bg-zinc-800/50 rounded-xl">
-                    <div className="text-3xl font-bold text-blue-400 mb-1">8 Weeks</div>
+                    <div className="text-3xl font-bold text-blue-400 mb-1">12 Weeks</div>
                     <div className="text-xs text-zinc-500 uppercase tracking-wider">{t.overview.stats.weeks}</div>
                  </div>
                  <div className="p-4 bg-zinc-800/50 rounded-xl">
